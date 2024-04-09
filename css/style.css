@@ -1,0 +1,18 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+line-height: 20px;
+}
+
+img {
+    margin: auto;
+    display: block;
+    width: 40%;
+}
+
+
